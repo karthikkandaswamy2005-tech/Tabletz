@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Robot Head / Body Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,40 C34,35 38,31 43,31 L65,31 C70,31 74,35 74,40 L74,68 C74,73 70,77 65,77 L43,77 C38,77 34,73 34,68 Z" />
+    <!-- Screen / Eye visor -->
+    <path
+        android:fillColor="#0A7EA4"
+        android:pathData="M40,40 L68,40 C70,40 71,41 71,43 L71,51 C71,53 70,54 68,54 L40,54 C38,54 37,53 37,51 L37,43 C37,41 38,40 40,40 Z" />
+    <!-- Glowing Robot Eyes -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M44,45 A2.5,2.5 0 1,0 49,45 A2.5,2.5 0 1,0 44,45 M59,45 A2.5,2.5 0 1,0 64,45 A2.5,2.5 0 1,0 59,45" />
+    <!-- Medical Cross on Chest -->
+    <path
+        android:fillColor="#0A7EA4"
+        android:pathData="M52,60 L56,60 L56,64 L60,64 L60,68 L56,68 L56,72 L52,72 L52,68 L48,68 L48,64 L52,64 Z" />
+    <!-- Antenna -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52.5,22 L55.5,22 L55.5,31 L52.5,31 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M50,20 A4,4 0 1,0 58,20 A4,4 0 1,0 50,20" />
+    <!-- Robot Wheels / Base Tracks -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M30,73 C30,71 32,69 34,69 L36,69 L36,79 L34,79 C32,79 30,77 30,75 Z M72,69 L74,69 C76,69 78,71 78,73 L78,75 C78,77 76,79 74,79 L72,79 Z" />
+</vector>

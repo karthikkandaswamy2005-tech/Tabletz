@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Medicine Delivery Robot",
+  "description": "Hospital medicine delivery robot management dashboard connecting nurses and pharmacists with live route tracking, RFID verification, obstacle alerts, and patient billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
